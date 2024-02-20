@@ -1,1 +1,1 @@
-My Python programming course
+0x0A. Python - Inheritance Task
